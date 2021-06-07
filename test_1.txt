@@ -3,3 +3,5 @@
 3) the third line
 4) the fourth line
 5) the fifth line
+6) the new line 1
+7) the new line 2 
